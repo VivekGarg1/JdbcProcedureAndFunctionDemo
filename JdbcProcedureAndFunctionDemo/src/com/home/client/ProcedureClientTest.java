@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 import com.home.util.JdbcUtil;
 
-public class ClientTest {
+public class ProcedureClientTest {
 
 	public static void main(String[] args) {
 		
